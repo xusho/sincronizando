@@ -5,11 +5,11 @@
 
   <head>
 
-    <title> Las aventuras de mi gato Lucky </title>
+    <title> Las aventuras de mi gato john </title>
 
     <meta http-equiv = "Content-Type" content = "text / html; charset = utf-8">
-    <meta name = "description" content = "Las aventuras de mi gato favorito Lucky, con historias, fotos y películas">
-    <meta name = "keywords" content = "cat, Lucky, pet, animal">
+    <meta name = "description" content = "Las aventuras de mi gato favorito john, con historias, fotos y películas">
+    <meta name = "keywords" content = "cat, john, pet, animal">
 
     <link rel = "stylesheet" type = "text / css" href = "/ style.css">
     <link rel = "icono de acceso directo" href = "/ favicon.ico">
@@ -18,15 +18,15 @@
 
   <body>
 
-    <h1> Las aventuras de mi gato Lucky </h1>
+    <h1> Las aventuras de mi gato john </h1>
 
     <div id = "mainContent">
 
-      <p> Mi gato Lucky tiene muchas aventuras. Ayer <a href="mouse.html"> atrapó un ratón </a>, ¡y esta mañana atrapó dos! </p>
+      <p> Mi gato John tiene muchas aventuras. Ayer <a href="mouse.html"> atrapó un ratón </a>, ¡y esta mañana atrapó dos! </p>
 
-      <p> Aquí hay una foto de Lucky: </p>
+      <p> Aquí hay una foto de john: </p>
 
-      <img src = "lucky.jpg" alt = "Lucky">
+      <img src = "john.jpg" alt = "john">
 
     </div>
 
